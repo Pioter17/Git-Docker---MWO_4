@@ -1,7 +1,7 @@
 linia1
 linia2 
 linia3
-linia4 - zmiana linia 4 - feature-A
+linia4 - cos tam
 linia5
 linia6
 linia7
