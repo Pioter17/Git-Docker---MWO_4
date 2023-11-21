@@ -6,5 +6,5 @@ linia5
 linia6
 linia7
 linia8
-linia9
+linia9 - zmiana linia 9 - feature-B
 linia10
