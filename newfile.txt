@@ -1,7 +1,7 @@
 linia1
 linia2 
 linia3
-linia4
+linia4 - inna zmiana costamcostam
 linia5
 linia6
 linia7
