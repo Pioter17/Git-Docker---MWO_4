@@ -8,3 +8,5 @@ linia7
 linia8
 linia9 - zmiana linia 9 - feature-B
 linia10
+Zmiana 3
+Zmiana 34
