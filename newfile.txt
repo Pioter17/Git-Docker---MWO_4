@@ -1,10 +1,12 @@
 linia1
 linia2 
 linia3
-linia4
+linia4 - cos tam
 linia5
 linia6
 linia7
 linia8
-linia9
+linia9 - zmiana linia 9 - feature-B
 linia10
+Zmiana 3
+Zmiana 34
